@@ -14,10 +14,11 @@ export default {
   
 </script>
 
-<style lang="stylus">
-li
-  display inline-block
-  margin 10px
-  border 5px solid #41B883
-  border-radius 13px
+<style>
+li{
+	display: inline-block;
+  	margin: 10px;
+  	border: 5px solid #41B883;
+  	border-radius: 13px;
+}
 </style>
